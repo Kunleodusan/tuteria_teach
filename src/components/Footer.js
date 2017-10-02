@@ -14,9 +14,8 @@ export default class Footer extends React.Component{
     render(){
         return(
             <footer>
-                <Clearfix/>
                 <Row>
-                    <Col md={2} xs={0} className="">
+                    <Col md={2} smHidden={true} className="">
                     </Col>
                     <Col md={4} xs={12} className="">
                         <p className="color-grey-2">12% Complete</p>

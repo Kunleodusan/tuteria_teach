@@ -19,7 +19,7 @@ export default class Header extends React.Component{
                 <Col md={2} className="logo">
                     <img src={logo} className="logo-image" alt="logo" />
                 </Col>
-                <Col md={2}>
+                <Col md={2} className="text-center">
                 Step 4: Create Subject
                 </Col>
                 <Col md={3} mdPush={5} className="save-status text-center">
