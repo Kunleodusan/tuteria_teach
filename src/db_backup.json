@@ -1,0 +1,87 @@
+{
+  "categories":[
+    {
+      "id":1,
+      "name":"Academic Subjects",
+      "sub_category":[
+        {
+          "name":"Elementary Kindergarten",
+          "subjects":["quantitative","qualitative","verbal"]
+        },
+        {
+          "name":"Mathematics",
+          "subjects":["General Mathematics","Trigonometry","Further Mathematics"]
+        },
+        {
+          "name":"English Language",
+          "subjects":["quantitative","qualitative","verbal"]
+        },
+        {
+          "name":"Science Subjects",
+          "subjects":["Chemistry","Biology","Physics"]
+        },
+        {
+          "name":"Commercial & Art",
+          "subjects":["PHY101","PHY102","PHE201"]
+        },
+        {
+          "name":"Undergraduate Courses",
+          "subjects":["CHE101","LIB001","TPD501"]
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name":"Exam Preparation",
+      "sub_category":[
+        {
+          "name":"Pre University",
+          "subjects":["Jamb","WAEC","NECO"]
+        },
+        {
+          "name":"Post University",
+          "subjects":["GRE","TOEFL","SAT"]
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name":"Languages",
+      "sub_category":[
+        {
+          "name":"Local",
+          "subjects":["Yoruba","Hausa","Igbo"]
+        },
+        {
+          "name":"Foreign",
+          "subjects":["English","Spanish","French"]
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name":"Professional & Business"
+    },
+    {
+      "id":5,
+      "name":"Music & Instruments"
+    },
+    {
+      "id":6,
+      "name":"Computer & Software"
+    },
+    {
+      "id":7,
+      "name":"Vocation Skills"
+    },
+    {
+      "id":8,
+      "name":"Special Education"
+    },
+    {
+      "id":9,
+      "name":"Sports & Fitness"
+    }
+  ],
+  "selectedSubjects":[]
+}

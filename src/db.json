@@ -1,0 +1,120 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Academic Subjects",
+      "sub_category": [
+        {
+          "name": "Elementary Kindergarten",
+          "subjects": [
+            "quantitative",
+            "qualitative",
+            "verbal"
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "subjects": [
+            "General Mathematics",
+            "Trigonometry",
+            "Further Mathematics"
+          ]
+        },
+        {
+          "name": "English Language",
+          "subjects": [
+            "quantitative",
+            "qualitative",
+            "verbal"
+          ]
+        },
+        {
+          "name": "Science Subjects",
+          "subjects": [
+            "Chemistry",
+            "Biology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Commercial & Art",
+          "subjects": [
+            "PHY101",
+            "PHY102",
+            "PHE201"
+          ]
+        },
+        {
+          "name": "Undergraduate Courses",
+          "subjects": [
+            "CHE101",
+            "LIB001",
+            "TPD501"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Exam Preparation",
+      "sub_category": [
+        {
+          "name": "Pre University",
+          "subjects": [
+            "Jamb",
+            "WAEC",
+            "NECO"
+          ]
+        },
+        {
+          "name": "Post University",
+          "subjects": [
+            "GRE",
+            "TOEFL",
+            "SAT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Languages",
+      "sub_category": [
+        {
+          "name": "Local",
+          "subjects": [
+            "Yoruba",
+            "Hausa",
+            "Igbo"
+          ]
+        },
+        {
+          "name": "Foreign",
+          "subjects": [
+            "English",
+            "Spanish",
+            "French"
+          ]
+        }
+      ]
+    }
+  ],
+  "selectedSubjects": [
+    {
+      "title": "Further Mathematics",
+      "id": 4
+    },
+    {
+      "title": "General Mathematics",
+      "id": 5
+    },
+    {
+      "title": "CHE101",
+      "id": 6
+    },
+    {
+      "title": "LIB001",
+      "id": 7
+    }
+  ]
+}
