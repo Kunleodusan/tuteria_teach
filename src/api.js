@@ -4,7 +4,8 @@
 import axios from 'axios';
 
 //const baseUrl='http://localhost:4040';
-const baseUrl='https://my-json-server.typicode.com/kunleodusan/tuteria_api';
+const baseUrl='http://api.tuteria.kunleodusan.com';
+//const baseUrl='https://my-json-server.typicode.com/kunleodusan/tuteria_api';
 
 export function apiPost(url,params,header){
     if(typeof header==='undefined'){
